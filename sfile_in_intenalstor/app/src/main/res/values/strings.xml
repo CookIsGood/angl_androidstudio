@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">P0751_Files</string>
+    <string name="write_file">Создать папку с файлом</string>
+
+
+
+    <string name="edit">Введите имя папки</string>
+</resources>
